@@ -1,6 +1,6 @@
 # 🧮 Array and Sorting Algorithms
 
-This repository contains implementations and runtime analyses of key **sorting algorithms** developed as part of an academic assignment for *CP600: Practical Algorithm Design*.  
+This repository contains implementations and runtime analyses of key **sorting algorithms** 
 The goal is to compare **different sorting paradigms** (comparison-based vs. distribution-based) using real numeric data — in this case, simulated phone numbers (`647-XXXXXXX`) from a telecommunications dataset.
 
 ---
